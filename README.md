@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Github Stats
+
+[![Dimas-Saputra-Me Github Stats](https://github-readme-stats.vercel.app/api?username=Dimas-Saputra-Me)](https://github.com/Dimas-Saputra-Me/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimas-Saputra-Me&layout=compact)](https://github.com/Dimas-Saputra-Me/github-readme-stats)
