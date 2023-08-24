@@ -22,7 +22,7 @@
 
 ## Contact Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/dimas-saputra-7b82b721b/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dimas-saputra-me/"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="-"><img src="https://img.shields.io/badge/<>-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
   <a href="-"><img src="https://img.shields.io/badge/<>-%23034EFC.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <a href="-"><img src="https://img.shields.io/badge/<>-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
