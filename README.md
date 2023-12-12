@@ -7,7 +7,7 @@
 ## Github Profile stats
 <br/>
   <p align="center">
-    <a href="https://github.com/Dimas-Saputra-Me"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dimas-Saputra-Me&show_icons=true&locale=en&theme=algolia" alt="Dimas-Saputra-Me" height="192px"/></a>
+    <a href="https://github.com/Dimas-Saputra-Me"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Dimas-Saputra-Me&show_icons=true&locale=en&theme=algolia&rank_icon=github" alt="Dimas-Saputra-Me" height="192px"/></a>
 	</p>
 <br/>
 
@@ -16,9 +16,12 @@
   <br/>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimas-Saputra-Me&theme=algolia" alt="Dimas-Saputra-Me" /></p>
   <p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dimas-Saputra-Me&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Dimas-Saputra-Me" height="192px"/></p>
-	<a href="https://github.com/Dimas-Saputra-Me"><img alt="Dimas Saputra Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dimas-Saputra-Me&custom_title=Dimas%20Saputra%20Contribution%20Graph&theme=react-dark" /></a>
+
   <br/>
 </details>
+
+## Holopin Badges
+[![An image of @dimassaputrame's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dimassaputrame)](https://holopin.io/@dimassaputrame)
 
 ## Contact Me
 <p align="center">
